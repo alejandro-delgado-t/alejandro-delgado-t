@@ -2,7 +2,7 @@
 
 🌍 **Data Scientist | Barcelona, Spain 🇪🇸**  
 
-I am a **data scientist** with a strong background in **business and economics**, passionate about turning data into actionable insights. With an **MSc in Data Science for Decision Making** from the Barcelona School of Economics, I leverage analytical and technical skills to solve complex problems and drive data-driven decisions.  
+I am a data scientist with a strong background in business and economics, passionate about turning data into actionable insights. With an MSc in Data Science for Decision Making from the Barcelona School of Economics, I leverage analytical and technical skills to solve complex problems and drive data-driven decisions.  
 
 ---
 
