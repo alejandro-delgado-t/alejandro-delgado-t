@@ -13,8 +13,8 @@ I am a data scientist with a strong background in business and economics, passio
 ---
 
 ## 💼 Experience  
-🔹 **Data Scientist (1 year)** – Group M Nexus  
-🔹 **Data Science Intern (6 months)** – DiDi Chuxing  
+🔹 **Data Analyst (1 year)** – Group M Nexus  
+🔹 **Product Ops. Intern (6 months)** – DiDi Chuxing  
 🔹 **Research Assistant (6 months)** – Universidad de los Andes  
 
 ---
